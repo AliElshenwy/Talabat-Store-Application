@@ -1,0 +1,6 @@
+@Talabat_Store_HostAddress = http://localhost:5184
+
+GET {{Talabat_Store_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
